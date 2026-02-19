@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+# MAMP / Local Server files
+cgi-bin/
+.htaccess
+error_log
+
+# Database backups (keep the original tms.sql, but ignore others)
+*.sql.gz
+*.zip
+
+# Temporary files
+*.tmp
+*.log
