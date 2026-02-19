@@ -31,7 +31,10 @@ To run this project locally on a Mac using MAMP, follow these steps:
 6. ConfigurationThe project is configured for MAMP's default credentials.
 7. Ensure both /includes/config.php and /admin/includes/config.php contain:PHPdefine('DB_HOST','localhost');
 
-## 📜 Credits & Attributions
-Original Project Creator: Anuj Kumar
-Original Source: PHPGurukul - [Tourism Management System](https://phpgurukul.com/tourism-management-system-free-download/)
-Refactored/Implemented by: Aditya Shankar (as part of a PHP development tutorial)
+### 📜 Credits & Attributions
+#### Original Project Creator: 
+Anuj Kumar
+#### Original Source: 
+PHPGurukul - [Tourism Management System](https://phpgurukul.com/tourism-management-system-free-download/)
+#### Refactored/Implemented on MAMP by: 
+Aditya Shankar (as part of a PHP development tutorial)
